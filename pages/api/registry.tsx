@@ -49,8 +49,8 @@ const handler = async (req: NextRequest) => {
       </div>
     ),
     {
-      width: 1200,
-      height: 630,
+      width: 2529,
+      height: 1323,
       fonts: [
         {
           name: "Satoshi",
